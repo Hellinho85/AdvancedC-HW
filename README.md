@@ -1,5 +1,5 @@
-# AdvancedC-HW
-Advanced C# Repo - Gjorgji Kongulovski SEDC SG1 2018/2019
+# AdvancedC-HW - Gjorgji Kongulovski SEDC SG1 2018/2019
+Advanced C# Repo
 C# Advanced Homework Repo;
 
 ---------------------------------------------------------------------------------------------------------------------------------------
