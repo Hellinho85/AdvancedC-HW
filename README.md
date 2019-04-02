@@ -35,4 +35,5 @@ BMW has an additional information for SunRoof (true/false);
 Opel has an additional information for Country of Origin;
 The description of the cars need to include all additional information based on Saloon;
 Every saloon needs to implement a function which for a specific value will return the cars that are in reach or equal to that value;
+
 ---------------------------------------------------------------------------------------------------------------------------------------
