@@ -205,6 +205,7 @@ namespace HomeworkAdv02
 
                         case 3:
                             Saloon OpelSaloon = new Saloon();                                                                            
+                            OpelSaloon.ListOfCars = OpelCars;
                             Console.WriteLine("-------------------------------------------------------------");
                             Console.WriteLine("Hello and welcome to the amazing car Saloon of Audi!");
                             Console.WriteLine("Area you interested in any kind of particular car type today?");
