@@ -9,9 +9,7 @@ namespace HomeworkAdv02
     public class Saloon
     {
         // Car Saloon Class - specific parameter and method;
-
-        public string SaloonName { get; set; }
-        public string SaloonAddress { get; set; }
+        
         public List<Car> ListOfCars { get; set; }
 
         public void BudgetPrice(int min, int max)
