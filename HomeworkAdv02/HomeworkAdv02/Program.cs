@@ -76,6 +76,8 @@ namespace HomeworkAdv02
 
                         case 1:
                             Saloon SaloonBMW = new Saloon();
+                            SaloonBMW.SaloonName = "BMW Macedonia";
+                            SaloonBMW.SaloonAddress = "Boulevard Kliment Ohridski no.40 - Skopje";
                             SaloonBMW.ListOfCars = BMWCars;
                             Console.WriteLine("-------------------------------------------------------------");
                             Console.WriteLine("Hello and welcome to the amazing car Saloon of BMW!");
@@ -141,7 +143,10 @@ namespace HomeworkAdv02
 
                         case 2:
                             Saloon AudiSaloon = new Saloon();
+                            AudiSaloon.SaloonName = "Audi Macedonia";
+                            AudiSaloon.SaloonAddress = "Boulevard Partizanski Odredi no.102 - Skopje";
                             AudiSaloon.ListOfCars = AudiCars;
+
                             Console.WriteLine("-------------------------------------------------------------");
                             Console.WriteLine("Hello and welcome to the amazing car Saloon of Audi!");
                             Console.WriteLine("Area you interested in any kind of particular car type today?");
@@ -206,6 +211,8 @@ namespace HomeworkAdv02
                         case 3:
                             Saloon OpelSaloon = new Saloon();
                             OpelSaloon.ListOfCars = OpelCars;
+                            OpelSaloon.SaloonName = "Opel Macedonia";                            
+                            OpelSaloon.SaloonAddress = "st. Petar Deljan no.5/2-3 - Skopje";
                             Console.WriteLine("-------------------------------------------------------------");
                             Console.WriteLine("Hello and welcome to the amazing car Saloon of Audi!");
                             Console.WriteLine("Area you interested in any kind of particular car type today?");
