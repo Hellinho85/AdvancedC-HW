@@ -27,13 +27,21 @@ Try and handle all scenarios with exception handling. Handle expected exceptions
 Homework no.2 - Car Saloon:
 
 The Car Saloons are split by model of cars (Audi, BMW and Opel);
+
 Every Saloon has type of cars Passenger/Freight;
+
 Every car has Model, Manufacturer, Door Number, Fuel Type (Diesel/Petrol), Fuel Consumption and Price;
+
 Additionaly every car has a method that returns a description of the car (all above information);
+
 Audi has an additional information for Color;
+
 BMW has an additional information for SunRoof (true/false);
+
 Opel has an additional information for Country of Origin;
+
 The description of the cars need to include all additional information based on Saloon;
+
 Every saloon needs to implement a function which for a specific value will return the cars that are in reach or equal to that value;
 
 ---------------------------------------------------------------------------------------------------------------------------------------
