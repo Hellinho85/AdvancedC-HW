@@ -1,0 +1,7 @@
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\HomeworkAdv01\HomeworkAdv01\bin\Debug\HomeworkAdv01.exe.config
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\HomeworkAdv01\HomeworkAdv01\bin\Debug\HomeworkAdv01.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\HomeworkAdv01\HomeworkAdv01\bin\Debug\HomeworkAdv01.pdb
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\HomeworkAdv01\HomeworkAdv01\obj\Debug\HomeworkAdv01.csprojAssemblyReference.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\HomeworkAdv01\HomeworkAdv01\obj\Debug\HomeworkAdv01.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\HomeworkAdv01\HomeworkAdv01\obj\Debug\HomeworkAdv01.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\HomeworkAdv01\HomeworkAdv01\obj\Debug\HomeworkAdv01.pdb
