@@ -24,3 +24,4 @@ Try and handle all scenarios with exception handling. Handle expected exceptions
 
 Homework no.2 - Car Saloon:
 
+The Car Saloons are split by model of cars (Audi, BMW and Opel)
