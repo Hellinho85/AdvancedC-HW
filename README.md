@@ -54,3 +54,5 @@ The description of the cars need to include all additional information based on 
 Every saloon needs to implement a function which for a specific value will return the cars that are in reach or equal to that value;
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+
+Homework no.3 - PC Shop;
