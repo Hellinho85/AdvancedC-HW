@@ -1,0 +1,7 @@
+C:\Users\Dzole\source\repos\HomeworkAdv04\HomeworkAdv04\bin\Debug\HomeworkAdv04.exe.config
+C:\Users\Dzole\source\repos\HomeworkAdv04\HomeworkAdv04\bin\Debug\HomeworkAdv04.exe
+C:\Users\Dzole\source\repos\HomeworkAdv04\HomeworkAdv04\bin\Debug\HomeworkAdv04.pdb
+C:\Users\Dzole\source\repos\HomeworkAdv04\HomeworkAdv04\obj\Debug\HomeworkAdv04.csprojAssemblyReference.cache
+C:\Users\Dzole\source\repos\HomeworkAdv04\HomeworkAdv04\obj\Debug\HomeworkAdv04.csproj.CoreCompileInputs.cache
+C:\Users\Dzole\source\repos\HomeworkAdv04\HomeworkAdv04\obj\Debug\HomeworkAdv04.exe
+C:\Users\Dzole\source\repos\HomeworkAdv04\HomeworkAdv04\obj\Debug\HomeworkAdv04.pdb

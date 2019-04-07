@@ -1,0 +1,7 @@
+C:\Users\Dzole\source\repos\HomeworkAdv04-Bonus\HomeworkAdv04-Bonus\bin\Debug\HomeworkAdv04-Bonus.exe.config
+C:\Users\Dzole\source\repos\HomeworkAdv04-Bonus\HomeworkAdv04-Bonus\bin\Debug\HomeworkAdv04-Bonus.exe
+C:\Users\Dzole\source\repos\HomeworkAdv04-Bonus\HomeworkAdv04-Bonus\bin\Debug\HomeworkAdv04-Bonus.pdb
+C:\Users\Dzole\source\repos\HomeworkAdv04-Bonus\HomeworkAdv04-Bonus\obj\Debug\HomeworkAdv04-Bonus.csprojAssemblyReference.cache
+C:\Users\Dzole\source\repos\HomeworkAdv04-Bonus\HomeworkAdv04-Bonus\obj\Debug\HomeworkAdv04-Bonus.csproj.CoreCompileInputs.cache
+C:\Users\Dzole\source\repos\HomeworkAdv04-Bonus\HomeworkAdv04-Bonus\obj\Debug\HomeworkAdv04-Bonus.exe
+C:\Users\Dzole\source\repos\HomeworkAdv04-Bonus\HomeworkAdv04-Bonus\obj\Debug\HomeworkAdv04-Bonus.pdb
