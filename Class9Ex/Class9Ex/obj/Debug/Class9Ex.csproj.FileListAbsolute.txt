@@ -1,0 +1,7 @@
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Class9Ex\Class9Ex\bin\Debug\Class9Ex.exe.config
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Class9Ex\Class9Ex\bin\Debug\Class9Ex.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Class9Ex\Class9Ex\bin\Debug\Class9Ex.pdb
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Class9Ex\Class9Ex\obj\Debug\Class9Ex.csprojAssemblyReference.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Class9Ex\Class9Ex\obj\Debug\Class9Ex.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Class9Ex\Class9Ex\obj\Debug\Class9Ex.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\Class9Ex\Class9Ex\obj\Debug\Class9Ex.pdb
