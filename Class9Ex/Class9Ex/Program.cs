@@ -8,13 +8,15 @@ namespace Class9Ex
 {
     class Program
     {
-        // Magic Delegate for StringMagic Method;
+        // Magic Delegate for StringMagic Method for Task 4;
         public delegate bool MagicDelegate(string magic1, string magic2);
 
         static void Main(string[] args)
         {
+            // Task 1 - Create Lists of 3 dogs, 3 casts and 3 birds and use Linq for various tasks;
+                        
             // Lists of Animals (Dog, Cat, Bird);
-
+            
             List<Dog> dogs = new List<Dog>()
             {
                 new Dog ("Sharko", 7, Animal.Color.Black, Race.GermanSpic),
@@ -52,7 +54,9 @@ namespace Class9Ex
                 .ToList();
 
             Console.WriteLine("------------------------------------------------------------");
-
+            
+            // Task 2 - Create Extensions Methods and do the below tasks:
+            
             var firstName = "Gjorgji";
             // Get the first letter of the string;
             Console.WriteLine(firstName.FirstLetter());
@@ -73,9 +77,17 @@ namespace Class9Ex
             Generics generics = new Generics();
             generics.PrintList(someNumbers.GetNfromList(5));
             generics.PrintList(someNames.GetNfromList(4));
-
+            
+            Console.WriteLine("------------------------------------------------------------");
+            
+            // Task 3 - Create Generic Methods - PrintList and PrintAnimals that print various inputs in the console;
+            generics.PrintList(someNames);
+            generics.PrintAnimals(dogs);
+            
             Console.WriteLine("------------------------------------------------------------");
 
+            // Task 4 - Create a delegate that accepts two strings and returns bool;
+            
             string s1 = "Nina";
             string s2 = "Ana";
 
@@ -122,6 +134,8 @@ namespace Class9Ex
 
             Console.WriteLine("------------------------------------------------------------");
 
+            // Task 5 - Create Publisher and 3 Subscribers for public event Message;
+            
             // Event Publisher;
             Publisher p = new Publisher();
 
