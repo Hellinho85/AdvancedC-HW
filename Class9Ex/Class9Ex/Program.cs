@@ -149,7 +149,7 @@ namespace Class9Ex
             p.EventMessageHandler += f3.ThirdSubMsg;
             
             // Event Message;
-            p.ComposeMessage("Risto Panchevski", "SG1", "PRASHANJA :P");
+            p.ComposeMessage("Risto Panchevski", "SG1", "PRASHANJA! :P");
         
             Console.ReadLine();
 
