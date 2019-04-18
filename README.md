@@ -4,7 +4,7 @@ C# Advanced Homework Repo;
 
 Class SG1 no.9 Exercises:
 
-Create an abstract class Animal and Dog, Cat and Bird classes inheriting it;
+Task no.1 - Create an abstract class Animal and Dog, Cat and Bird classes inheriting it;
 
 Animal has:
 
@@ -50,7 +50,7 @@ Get the last lazy cat;
 
 Get the all wild birds that are younger than 3 and are ordered by their name;
 
-2) Create extension methods:
+Task no.2 - Create extension methods:
 
 GetFirstLetter - Method on String that returns the first letter of a string;
 
@@ -60,13 +60,13 @@ IsEven - Method on Int that checks if its even and returns bool;
 
 GetNfromList - Generic method that accepts an int and returns the first N ( input ) items from that list;
 
-3) Create generic methods:
+Task no.3 - Create generic methods:
 
 PrintList - Method that prints any list of items in the console ( strings, bools ints etc. );
 
 PrintAnimals - Method that prints any list with Animals ( print method ) in the console ( Dog, Cat Bird and any Animal );
 
-4) Create a delegate that accepts two strings and returns bool:
+Task no.4 - Create a delegate that accepts two strings and returns bool:
 
 Create a method called StringMagic that requires the delegate as parameter and that executes the delegate and prints the 2 strings and the result;
 
@@ -76,7 +76,7 @@ Call the StringMagic method to compare if the 2 strings start on the same charac
 
 Call the StringMagic method to compare if the 2 strings end on the same character;
 
-5) Create a publisher class called Trainer that:
+Task no.5 - Create a publisher class called Trainer that:
 
 Has delegate that returns void and accepts one string parameter;
 
