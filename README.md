@@ -5,11 +5,17 @@ C# Advanced Homework Repo;
 Class SG1 no.9 Exercises:
 
 1) Create an abstract class Animal and Dog, Cat and Bird classes inheriting it;
-Animal has
+
+Animal has:
+
 Name
+
 Age ( custom getter and setter ) - Can't be set below 0 or over 175
+
 Color
+
 Print( abstract method ) - Prints all properties of the Animal
+
 Dog has
 Race
 Bark ( method ) - Prints BARK BARK in console
